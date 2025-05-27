@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Stack2
 {
-    internal class Program
+    internal class AtticYellow
     {
         static void Main(string[] args)
         {
